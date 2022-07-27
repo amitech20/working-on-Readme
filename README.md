@@ -42,11 +42,12 @@ When the credential is successfully verified during login, the request is authen
 ### Prerequisites
 
 The first thing to do is verify if Python and pip is installed in your system 
-Run python -V 
 
-<img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2020/07/python-windows-version-check.png" width="400" />
+Execute python --version or python -V
 
-Run pip -V
+<img src="https://miro.medium.com/max/508/1*NLefhqkQDB51_b6XzVOQOg.png" width="500" />
+
+Execute pip --version or pip -V
 
 ![pip version](https://miro.medium.com/max/700/1*7N3Trmjb1xt0uyaERNPbRA.png "pip v")
 
