@@ -44,7 +44,7 @@ When the credential is successfully verified during login, the request is authen
 The first thing to do is verify if Python and pip is installed in your system 
 Run python -V 
 
-![Python version](https://miro.medium.com/max/506/1*cFpfObVUK5siyNozEfX9sQ.jpeg "p version")
+![Python version](https://www.thecrazyprogrammer.com/2020/07/how-to-check-python-version.html "p version")
 
 Run pip -V
 
@@ -54,19 +54,19 @@ If it is not installed **[follow this guide](https://medium.com/co-learning-loun
 
 ## Installation
 
-            Clone the repository
+Clone the repository
 
 `git clone https://github.com/zuri-training/auth-wiki-team7.git`
 
-            Move to the folder
+Move to the folder
 
 `cd auth-wiki-team7`
 
-            To fetch for remote updates
+To fetch for remote updates
 
 `git fetch origin`
 
-            Pull latest changes from the main branch 
+Pull latest changes from the main branch 
 
 `git pull origin main`
 
