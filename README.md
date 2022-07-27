@@ -37,21 +37,6 @@ The Python library contains bundles of code that can be used repeatedly in diffe
 
 When the credential is successfully verified during login, the request is authenticated
 
-## Benefits of Authenticated Users
-
-* Full access to the platform
-* Contribute by commenting and reacting
-* Able to view example usage
-* Download code samples
-
-## Unauthenticated Users can only:
-
-* Visit the platform just to view basic information about it
-* View and Interact with the documentation
-* Register and login to contribute
-* Browse through library but with limited information
-
-
 ## Setup
 
 ### Prerequisites
