@@ -78,17 +78,14 @@ Pull latest changes from the main branch
 
 **NEXT:**
 
-Install a virtual environment package
+Install and create a virtual environment package
 
 `pip install virtualenv`
-
-
-Create virtual Environment 
 
 `python -m venv env`
 
 
-and activate it 
+Before you can start using packages in your virtual environment you'll need to activate it, so activate the virtual environment 
 
 `env/scripts/activate`
 
@@ -103,12 +100,9 @@ Once pip has finished downloading the dependencies, migrate all models and make 
    `python manage.py migrate`
 
 
-Create admin account
+Create admin account and Start Local Server
  
    `python manage.py createsuperuser`
-
-
-Start Local Server
 
    `python manage.py runserver`
 
