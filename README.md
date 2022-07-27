@@ -58,19 +58,22 @@ If it is not installed **[follow this guide](https://medium.com/co-learning-loun
 
 ## Installation
 
-Clone the repository and Move to the folder
+Clone the repository and move to the folder
 
 `git clone https://github.com/zuri-training/auth-wiki-team7.git`
 
 `cd auth-wiki-team7`
 
+
 To fetch for remote updates
 
 `git fetch origin`
 
+
 Pull latest changes from the main branch 
 
 `git pull origin main`
+
 
 
 **NEXT:**
@@ -79,29 +82,36 @@ Install a virtual environment package
 
 `pip install virtualenv`
 
+
 Create virtual Environment 
 
 `python -m venv env`
+
 
 and activate it 
 
 `env/scripts/activate`
 
+
 Then install dependencies:
 
 `pip install -r requirements.txt`
+
 
 Migrate all models and make migrations
 
 `python manage.py migrate`
 
+
 Create admin account
 
 `python manage.py createsuperuser`
 
+
 Start Local Server
 
 `python manage.py runserver`
+
 
 Then open localhost:8000 on your browser to view the app
 
