@@ -61,6 +61,7 @@ If it is not installed **[follow this guide](https://medium.com/co-learning-loun
 Clone the repository and Move to the folder
 
 `git clone https://github.com/zuri-training/auth-wiki-team7.git`
+
 `cd auth-wiki-team7`
 
 To fetch for remote updates
