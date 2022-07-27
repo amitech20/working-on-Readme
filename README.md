@@ -44,7 +44,7 @@ When the credential is successfully verified during login, the request is authen
 The first thing to do is verify if Python and pip is installed in your system 
 Run python -V 
 
-<img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2020/07/python-windows-version-check.png" height="200" width="500" />
+<img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2020/07/python-windows-version-check.png" width="400" />
 
 Run pip -V
 
