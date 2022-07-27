@@ -54,19 +54,19 @@ If it is not installed **[follow this guide](https://medium.com/co-learning-loun
 
 ## Installation
 
-Clone the repository
+            Clone the repository
 
 `git clone https://github.com/zuri-training/auth-wiki-team7.git`
 
-Move to the folder
+            Move to the folder
 
 `cd auth-wiki-team7`
 
-To fetch for remote updates
+            To fetch for remote updates
 
 `git fetch origin`
 
-Pull latest changes from the main branch 
+            Pull latest changes from the main branch 
 
 `git pull origin main`
 
