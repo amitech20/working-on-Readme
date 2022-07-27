@@ -45,7 +45,7 @@ The first thing to do is verify if Python and pip is installed in your system
 
 Execute python --version or python -V
 
-![python version](https://miro.medium.com/max/508/1*NLefhqkQDB51_b6XzVOQOg.png "python v")
+![python version](https://www.howtogeek.com/wp-content/uploads/2022/04/3-python-version-powershell.png "python v")
 
 
 Execute pip --version or pip -V
