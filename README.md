@@ -98,19 +98,19 @@ Then install dependencies:
 `pip install -r requirements.txt`
 
 
-Migrate all models and make migrations
+Once pip has finished downloading the dependencies, migrate all models and make migrations
 
-`python manage.py migrate`
+   `python manage.py migrate`
 
 
 Create admin account
-
-`python manage.py createsuperuser`
+ 
+   `python manage.py createsuperuser`
 
 
 Start Local Server
 
-`python manage.py runserver`
+   `python manage.py runserver`
 
 
 Then open localhost:8000 on your browser to view the app
