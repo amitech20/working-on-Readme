@@ -45,7 +45,8 @@ The first thing to do is verify if Python and pip is installed in your system
 
 Execute python --version or python -V
 
-<img src="https://miro.medium.com/max/508/1*NLefhqkQDB51_b6XzVOQOg.png" width="500" />
+![python version](https://miro.medium.com/max/508/1*NLefhqkQDB51_b6XzVOQOg.png "python v")
+
 
 Execute pip --version or pip -V
 
