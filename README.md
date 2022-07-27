@@ -89,22 +89,31 @@ Pull latest changes from the main branch
 **NEXT:**
 
 Install a virtual environment package
+
 `pip install virtualenv`
 
-Create virtual Environment and activate it 
+Create virtual Environment 
+
 `python -m venv env`
+
+and activate it 
+
 `env/scripts/activate`
 
 Then install dependencies:
+
 `pip install -r requirements.txt`
 
 Migrate all models and make migrations
+
 `python manage.py migrate`
 
 Create admin account
+
 `python manage.py createsuperuser`
 
-Start Local Server:
+Start Local Server
+
 `python manage.py runserver`
 
 Then open localhost:8000 on your browser to view the app
